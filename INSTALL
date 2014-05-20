@@ -1,0 +1,9 @@
+Building DojeCoin
+
+See doc/readme-qt.rst for instructions on building DojeCoin QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of DojeCoin.
+
+See doc/build-*.txt for instructions on building DojeCoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of DojeCoin.

@@ -1,0 +1,13 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=DojeCoin
+Comment=DojeCoin P2P Cryptocurrency
+Comment[fr]=DojeCoin, monnaie virtuelle cryptographique pair à pair
+Comment[tr]=DojeCoin, eşten eşe kriptografik sanal para birimi
+Comment[es]=DojeCoin, una criptomoneda P2P
+Exec=/usr/bin/dojecoin-qt
+Terminal=false
+Type=Application
+Icon=/usr/share/pixmaps/bitcoin80.xpm
+MimeType=x-scheme-handler/dojecoin;
+Categories=Office;
